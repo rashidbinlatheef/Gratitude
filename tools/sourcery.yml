@@ -1,0 +1,6 @@
+sources:
+  - ../Gratitude
+templates:
+  - ./Templates/AutoMockable.stencil
+output:
+  ../GratitudeTests/Generated
